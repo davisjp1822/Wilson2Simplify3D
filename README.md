@@ -1,5 +1,5 @@
 # Wilson2Simplify3D
-[Simplify3D](www.simplify3d.com) Settings for the [RepRap Wilson II](https://www.tindie.com/products/mjrice/reprap-wilson-ii-complete-3d-printer-kit-/) 3D Printer
+[Simplify3D](https://www.simplify3d.com) Settings for the [RepRap Wilson II](https://www.tindie.com/products/mjrice/reprap-wilson-ii-complete-3d-printer-kit-/) 3D Printer
 
 I have had some excellent results lately with my Wilson II printer using Simplify3D's excellent slicing software. With the settings in this project, I have been to reliably, and relatively quickly, print some rather complex objects. Hopefully you find these settings useful as well.
 
